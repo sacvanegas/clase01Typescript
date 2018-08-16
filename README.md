@@ -1,6 +1,6 @@
 # Clase01Typescript
 Clase de orientacion de objetos en Typescript, temas: clases, herencia, interfaces, enums, const, let, funciones, export, import 
-Para ver en funcionamiento ir a 
+Para ver en funcionamiento ir a  https://stackblitz.com/github/sacvanegas/clase01Typescript
 
 
 ## Resultados
